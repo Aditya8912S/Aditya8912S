@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Astryxz</h1>
-<h3 align="center">A passionate frontend and backend and developer from India</h3>
+<h3 align="center">I'm A Coder and Arch Linux Tinkerer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya8912s&label=Profile%20views&color=0e75b6&style=flat" alt="aditya8912s" /> </p>
 
-- 🔭 I’m currently working on [Hypeman](github.com/Aditya8912S/Hypeman)
+- I’m currently working on [Hypeman](github.com/Aditya8912S/Hypeman)
 
-- 🌱 I’m currently learning **C++ , Python , Shell Script**
+- I’m currently learning **C++ , Python , Shell Script**
 
-- 🤝 I’m looking for help with [Corefetch](github.com/Aditya8912S/Corefetch)
+- I’m looking for help with [Corefetch](github.com/Aditya8912S/Corefetch)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aditya8912S?tab=repositories](https://github.com/Aditya8912S?tab=repositories)
+- All of my projects are available at [https://github.com/Aditya8912S?tab=repositories](https://github.com/Aditya8912S?tab=repositories)
 
-- 📫 How to reach me **geltron103@gmail.cim**
+- How to reach me **geltron103@gmail.cim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
