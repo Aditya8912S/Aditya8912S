@@ -9,7 +9,7 @@
 
 - I’m looking for help with [Corefetch](github.com/Aditya8912S/Corefetch)
 
-- All of my projects are available at [https://github.com/Aditya8912S?tab=repositories](https://github.com/Aditya8912S?tab=repositories)
+- All of my projects are available at [My Projects](https://github.com/Aditya8912S?tab=repositories)
 
 - How to reach me **geltron103@gmail.cim**
 
